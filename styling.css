@@ -1,0 +1,14 @@
+highlight{
+    background: yellow;
+    color: #ff !important;
+}
+
+mark {
+    padding: 0;
+    background: transparent;
+    background: linear-gradient(to right, #f0ad4e 50%, transparent 50%);
+    background-position: right bottom;
+    background-size: 200% 100%;
+    transition: all .5s ease;
+    color: #fff;
+  }
